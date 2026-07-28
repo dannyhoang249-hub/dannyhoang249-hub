@@ -24,7 +24,7 @@ It helps turn a rough idea, research note, meeting transcript, metric question, 
 - 🎯 **Strategy:** product goals, OKRs, opportunity sizing, prioritisation, and roadmap options.
 - 📈 **Data & communication:** metric definitions, analysis plans, stakeholder updates, and meeting decisions.
 
-> A Vietnamese-first Agent Skill, designed for Codex-style workflows.
+> [Explore the skill →](https://github.com/dannyhoang249-hub/pm-vietnamese-copilot) · Vietnamese-first Agent Skill for Claude Code, Claude Cowork, and Codex-style workflows.
 
 ## 🚀 Featured build — GachaBuild 3
 
