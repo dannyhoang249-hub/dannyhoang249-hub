@@ -14,6 +14,18 @@
 ---
 
 
+## 🧠 Featured workflow — PM Copilot
+
+[![pm-vietnamese-copilot](https://img.shields.io/github/stars/dannyhoang249-hub/pm-vietnamese-copilot?style=social)](https://github.com/dannyhoang249-hub/pm-vietnamese-copilot)
+
+**[PM Copilot](https://github.com/dannyhoang249-hub/pm-vietnamese-copilot)** — a bilingual Vietnamese-English AI workflow for turning rough product inputs into decision-ready, delivery-ready PM artifacts.
+
+- 🧭 Covers discovery, PRDs, backlog, prioritisation, metrics, feedback synthesis, meeting decisions, and pre-mortems.
+- 🌐 Supports Vietnamese, English, and concise bilingual handoffs for product, engineering, and stakeholders.
+- 🧠 Uses a Karpathy-inspired decision-quality gate: clarify assumptions, simplify scope, avoid speculative work, and define measurable verification loops.
+
+→ [Explore the skill](https://github.com/dannyhoang249-hub/pm-vietnamese-copilot)
+
 ## 🚀 Featured build — GachaBuild 3
 
 [![gacha-guide-cms](https://img.shields.io/github/stars/dannyhoang249-hub/gacha-guide-cms?style=social)](https://github.com/dannyhoang249-hub/gacha-guide-cms)
