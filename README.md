@@ -13,18 +13,6 @@
 
 ---
 
-## 🧭 Vietnamese PM Copilot
-
-**A bilingual agent skill for practical product work** — built for Vietnamese product teams that need clear thinking, evidence-based decisions, and delivery-ready documents.
-
-It helps turn a rough idea, research note, meeting transcript, metric question, or feature request into a structured PM output in **Vietnamese, English, or both**:
-
-- 🔎 **Discovery:** problem framing, JTBD, assumptions, interview questions, and experiment plans.
-- 📋 **Execution:** PRDs, user stories, acceptance criteria, test scenarios, sprint inputs, and release notes.
-- 🎯 **Strategy:** product goals, OKRs, opportunity sizing, prioritisation, and roadmap options.
-- 📈 **Data & communication:** metric definitions, analysis plans, stakeholder updates, and meeting decisions.
-
-> [Explore the skill →](https://github.com/dannyhoang249-hub/pm-vietnamese-copilot) · Vietnamese-first Agent Skill for Claude Code, Claude Cowork, and Codex-style workflows.
 
 ## 🚀 Featured build — GachaBuild 3
 
