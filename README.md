@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hoang Dung Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="waving hand" /></h1>
+<h1 align="center">Hi, I'm Hoang Dung Nguyen 👋</h1>
 
 <p align="center">
   <strong>Product Owner candidate · Strategy & Growth leader · Builder</strong><br />
@@ -6,44 +6,38 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dzung-hoang-nguyen/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="https://duetnightabyss.gachabuild.com"><img src="https://img.shields.io/badge/Live_product-GachaBuild_3-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="View GachaBuild 3" /></a>
-  <a href="mailto:deanhoang249@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Hoang" /></a>
+  <a href="https://www.linkedin.com/in/dzung-hoang-nguyen/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://duetnightabyss.gachabuild.com"><img src="https://img.shields.io/badge/Live_product-GachaBuild_3-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="View GachaBuild 3" /></a>
+  <a href="mailto:deanhoang249@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Hoang" /></a>
 </p>
 
 ---
 
-## 👋 About me
+## 🧭 Vietnamese PM Copilot
 
-I'm a Ho Chi Minh City–based product-minded strategist transitioning into **Product Ownership**. Over 6+ years, I have worked at the intersection of market intelligence, user research, growth, and cross-functional delivery—turning ambiguous problems into prioritised, shippable work.
+**A bilingual agent skill for practical product work** — built for Vietnamese product teams that need clear thinking, evidence-based decisions, and delivery-ready documents.
 
-- 🔭 **Building:** [GachaBuild 3](https://github.com/dannyhoang249-hub/gacha-guide-cms), a CMS-powered game-guide platform built and shipped end-to-end.
-- 🎯 **Seeking:** Product Owner / Product roles where research, prioritisation, and delivery lead to real user and business impact.
-- 🧠 **Working with:** product discovery, user stories, acceptance criteria, RICE/MoSCoW, Agile/Scrum, TypeScript, CMS workflows, and AI-enabled product ideas.
-- 🌏 **Based in:** Ho Chi Minh City, Vietnam.
+It helps turn a rough idea, research note, meeting transcript, metric question, or feature request into a structured PM output in **Vietnamese, English, or both**:
+
+- 🔎 **Discovery:** problem framing, JTBD, assumptions, interview questions, and experiment plans.
+- 📋 **Execution:** PRDs, user stories, acceptance criteria, test scenarios, sprint inputs, and release notes.
+- 🎯 **Strategy:** product goals, OKRs, opportunity sizing, prioritisation, and roadmap options.
+- 📈 **Data & communication:** metric definitions, analysis plans, stakeholder updates, and meeting decisions.
+
+> A Vietnamese-first Agent Skill, designed for Codex-style workflows.
 
 ## 🚀 Featured build — GachaBuild 3
 
-<table>
-  <tr>
-    <td width="60%">
-      <h3><a href="https://github.com/dannyhoang249-hub/gacha-guide-cms">CMS-powered game-guide platform</a></h3>
-      <p>A production-oriented, searchable game database for <a href="https://duetnightabyss.gachabuild.com">Duet Night Abyss</a>. I owned the product from identifying the user problem and defining the backlog through building, content operations, and live deployment.</p>
-      <ul>
-        <li>⚡ <strong>839 active users</strong> and <strong>5.6K+ event interactions</strong> in its first 3 months, acquired organically.</li>
-        <li>🗂️ Structured <strong>Sanity CMS</strong> workflows for characters, weapons, builds, and tier lists.</li>
-        <li>🔎 Search, filtering, SEO, English/Vietnamese foundations, and content revalidation.</li>
-        <li>🐳 Deployment with Next.js, Docker Compose, Nginx, and SSL.</li>
-      </ul>
-      <p><a href="https://github.com/dannyhoang249-hub/gacha-guide-cms"><strong>Explore the source →</strong></a> &nbsp;·&nbsp; <a href="https://duetnightabyss.gachabuild.com"><strong>Visit the live guide →</strong></a></p>
-    </td>
-    <td width="40%">
-      <a href="https://duetnightabyss.gachabuild.com">
-        <img src="https://raw.githubusercontent.com/dannyhoang249-hub/gacha-guide-cms/main/public/screenshots/tier-list-preview.png" alt="GachaBuild tier-list interface" />
-      </a>
-    </td>
-  </tr>
-</table>
+[![gacha-guide-cms](https://img.shields.io/github/stars/dannyhoang249-hub/gacha-guide-cms?style=social)](https://github.com/dannyhoang249-hub/gacha-guide-cms)
+
+**[GachaBuild 3](https://github.com/dannyhoang249-hub/gacha-guide-cms)** — a CMS-powered, searchable game-guide platform for [Duet Night Abyss](https://duetnightabyss.gachabuild.com). I owned the work from identifying the user problem and defining the backlog through building, content operations, and live deployment.
+
+- ⚡ Reached **839 active users** and **5.6K+ event interactions** in its first 3 months through organic acquisition.
+- 🗂️ Designed **Sanity CMS** workflows for characters, weapons, builds, and tier lists.
+- 🔎 Shipped search, filtering, SEO, English/Vietnamese foundations, and content revalidation.
+- 🐳 Deployed with Next.js, Docker Compose, Nginx, and SSL.
+
+→ [Explore the source](https://github.com/dannyhoang249-hub/gacha-guide-cms) · [Visit the live guide](https://duetnightabyss.gachabuild.com)
 
 ## 📈 Selected impact
 
@@ -54,7 +48,9 @@ I'm a Ho Chi Minh City–based product-minded strategist transitioning into **Pr
 | **Enterprise strategy** | Secured multi-billion VND client work and helped establish a 3-year strategic partnership with Roche Vietnam. |
 | **Independent product** | Shipped GachaBuild 3 and grew it through organic search—without paid acquisition. |
 
-## 🛠️ Product & technical toolkit
+<details>
+<summary><strong>🛠️ Product & technical toolkit</strong></summary>
+<br />
 
 <p>
   <img src="https://img.shields.io/badge/Product_discovery-181717?style=flat-square" alt="Product discovery" />
@@ -69,16 +65,23 @@ I'm a Ho Chi Minh City–based product-minded strategist transitioning into **Pr
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Generative_AI_%26_LLM_workflows-412991?style=flat-square" alt="Generative AI and LLM workflows" />
 </p>
+</details>
+
+<details>
+<summary><strong>👋 About me</strong></summary>
+<br />
+
+I'm a Ho Chi Minh City–based product-minded strategist transitioning into **Product Ownership**. Over 6+ years, I have worked at the intersection of market intelligence, user research, growth, and cross-functional delivery—turning ambiguous problems into prioritised, shippable work.
+
+- 🎯 **Seeking:** Product Owner / Product roles where research, prioritisation, and delivery lead to real user and business impact.
+- 🌏 **Based in:** Ho Chi Minh City, Vietnam.
+</details>
 
 ## 📊 GitHub at a glance
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=dannyhoang249-hub&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=52525B&bg_color=FFFFFF" alt="Hoang's GitHub statistics" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dannyhoang249-hub&layout=compact&hide_border=true&title_color=7C3AED&text_color=52525B&bg_color=FFFFFF" alt="Hoang's top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dannyhoang249-hub&hide_border=true&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED" alt="GitHub contribution streak" />
 </p>
 
 ---
