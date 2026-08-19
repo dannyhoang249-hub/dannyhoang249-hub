@@ -14,11 +14,11 @@
 ---
 
 
-## 🧠 Featured workflow — PM Copilot
+## 🧠 Featured workflow — PM Skill
 
 [![pm-vietnamese-copilot](https://img.shields.io/github/stars/dannyhoang249-hub/pm-vietnamese-copilot?style=social)](https://github.com/dannyhoang249-hub/pm-vietnamese-copilot)
 
-**[PM Copilot](https://github.com/dannyhoang249-hub/pm-vietnamese-copilot)** — a bilingual Vietnamese-English AI workflow for turning rough product inputs into decision-ready, delivery-ready PM artifacts.
+**[PM Skills](https://github.com/dannyhoang249-hub/pm-vietnamese-copilot)** — a bilingual Vietnamese-English AI workflow for turning rough product inputs into decision-ready, delivery-ready PM artifacts.
 
 - 🧭 Covers discovery, PRDs, backlog, prioritisation, metrics, feedback synthesis, meeting decisions, and pre-mortems.
 - 🌐 Supports Vietnamese, English, and concise bilingual handoffs for product, engineering, and stakeholders.
