@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dzung-hoang-nguyen/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="https://duetnightabyss.gachabuild.com"><img src="https://img.shields.io/badge/Live_product-GachaBuild_3-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="View GachaBuild 3" /></a>
+  <a href="https://porfolio.info.vn"><img src="https://img.shields.io/badge/Live_product-GachaBuild_3-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:deanhoang249@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Hoang" /></a>
 </p>
 
