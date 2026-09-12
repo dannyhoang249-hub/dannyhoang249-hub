@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Hoang Dung Nguyen 👋</h1>
 
 <p align="center">
-  <strong>Product Owner · AI product builder · Strategy & growth leader</strong><br />
-  Turning market insight and user behaviour into clear backlogs, useful products, and measurable outcomes — now focused on AI-enabled products.
+  <strong>AI learner & builder · background in strategy, growth & product delivery</strong><br />
+  Turning market insight and user behaviour into clear backlogs, useful products, and measurable outcomes — now focused on learning to build AI-enabled products.
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ## 🧠 Learning AI by shipping — my honest path
 
-I'm a product manager building depth in AI the only way I trust: **shipping real things, then writing down what I actually understood — and what I still don't.**
+I'm learning AI the only way I trust: **shipping real things, then writing down what I actually understood — and what I still don't.**
 
 📗 **[`learning_path`](https://github.com/dannyhoang249-hub/learning_path)** is the map: foundations → agentic workflows → LLM engineering → MCP/tooling, each anchored to a real repo or certificate, with an explicit *"what I'm comfortable with vs. still learning"* table.
 
@@ -46,7 +46,7 @@ I'm a product manager building depth in AI the only way I trust: **shipping real
 
 [![gacha-guide-cms](https://img.shields.io/github/stars/dannyhoang249-hub/gacha-guide-cms?style=social)](https://github.com/dannyhoang249-hub/gacha-guide-cms)
 
-**[GachaBuild](https://github.com/dannyhoang249-hub/gacha-guide-cms)** — a CMS-powered, searchable game-guide platform for [Duet Night Abyss](https://duetnightabyss.gachabuild.com). I owned the work from identifying the user problem and defining the backlog through building, content operations, and live deployment.
+**[GachaBuild](https://github.com/dannyhoang249-hub/gacha-guide-cms)** — a searchable game-guide platform for [Duet Night Abyss](https://duetnightabyss.gachabuild.com), launched in 2025. I owned the work from identifying the user problem and defining the backlog through building, content operations, and live deployment.
 
 - ⚡ Reached **839 active users** and **5.6K+ event interactions** in its first 3 months through organic acquisition.
 - 🗂️ Designed **Sanity CMS** workflows for characters, weapons, builds, and tier lists.
@@ -90,9 +90,9 @@ I'm a product manager building depth in AI the only way I trust: **shipping real
 <summary><strong>👋 About me</strong></summary>
 <br />
 
-I'm a Ho Chi Minh City–based product-minded strategist transitioning into **Product Ownership** with an AI focus. Over 6+ years, I have worked at the intersection of market intelligence, user research, growth, and cross-functional delivery—turning ambiguous problems into prioritised, shippable work.
+I'm a Ho Chi Minh City–based learner with ~6 years at the intersection of market intelligence, user research, growth, and cross-functional delivery—turning ambiguous problems into prioritised, shippable work. I'm now focused on learning to build AI-enabled products.
 
-- 🎯 **Seeking:** Product Owner / AI Product roles where research, prioritisation, and delivery lead to real user and business impact.
+- 🎯 **Seeking:** a team where I can keep learning and shipping AI products — where research, prioritisation, and delivery lead to real user and business impact.
 - 🌏 **Based in:** Ho Chi Minh City, Vietnam.
 </details>
 
